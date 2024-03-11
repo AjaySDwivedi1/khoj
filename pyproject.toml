@@ -77,6 +77,7 @@ dependencies = [
     "phonenumbers == 8.13.27",
     "markdownify ~= 0.11.6",
     "websockets == 12.0",
+    "apscheduler ~= 3.10.0",
 ]
 dynamic = ["version"]
 
